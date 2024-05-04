@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello It's me
+Roman Angelo Dayto
+And I'm a Web Developer 👋
+
+
 <a href="https://app.daily.dev/romanangelodayto"><img src="https://api.daily.dev/devcards/v2/Nc6UnzilhNCtCR4q1qmTc.png?type=wide&r=8oc" width="652" alt="Roman Angelo Dayto's Dev Card"/></a>
 <!--
 **Romgel27/Romgel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
