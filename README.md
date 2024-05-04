@@ -2,6 +2,7 @@
 Roman Angelo Dayto
 And I'm a Web Developer 👋
 
+Through this platform, I aim to offer a glimpse into my journey in the world of software development. Here, you will find a blend of my coding insights, reflections on cutting-edge tech trends, and more.
 
 <a href="https://app.daily.dev/romanangelodayto"><img src="https://api.daily.dev/devcards/v2/Nc6UnzilhNCtCR4q1qmTc.png?type=wide&r=8oc" width="652" alt="Roman Angelo Dayto's Dev Card"/></a>
 <!--
